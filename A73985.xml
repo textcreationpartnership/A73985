@@ -1,0 +1,151 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King. A proclamation for the restraining of the importation of iron vvyer into this kingdome, and for the support of that manufacture</title>
+            <title>Proclamations. 1630-05-07</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1630</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A73985</idno>
+            <idno type="STC">STC 8946</idno>
+            <idno type="STC">ESTC S122769</idno>
+            <idno type="EEBO-CITATION">99899058</idno>
+            <idno type="PROQUEST">99899058</idno>
+            <idno type="VID">150855</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A73985)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 150855)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1984:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King. A proclamation for the restraining of the importation of iron vvyer into this kingdome, and for the support of that manufacture</title>
+                  <title>Proclamations. 1630-05-07</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>3 sheets (versos blank)   </extent>
+               <publicationStmt>
+                  <publisher>by Robert Barker, printer to the Kings most Excellent Maiestie,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>M. DC. XXX. [1630]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dated at end: White-hall, the seuenth day of May, in the sixt yeere of our reigne.</note>
+                  <note>Arms 23 (with one leaf under the lion's leg); Steele notation: vvithin  And  2) disaduantage  3) disposed  Law,.</note>
+                  <note>Reproduction of original in the Henry E. Huntington Library and Art Gallery, San Marino, California.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Wire --  Early works to 1800.</term>
+               <term>Import quotas --  Law and legislation --  England --  Early works to 1800.</term>
+               <term>Iron industry and trade --  Law and legislation --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:150855:1" rendition="simple:additions"/>
+            <head>
+               <figure>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+               <g ref="char:leaf">❧</g> By the King.</head>
+            <head>
+               <g ref="char:leaf">❧</g> A Proclamation for the reſtraining of the Importation of Iron VVyer into this Kingdome, and for the ſupport of that Manufacture.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">W</seg>Hereas Iron VVyer is a manufacture long practiſed vvithin</hi> this Realme, and by that Trade and Myſtery many thouſands of Our louing Subiects haue been for a long time well and honeſtly employed and ſet on worke; And by meanes thereof, great num<g ref="char:EOLhyphen"/>bers of expert and ſkilfull men in that Arte and Science haue been trained vp, who are now deſtitute of any other profeſſion or meanes whereby to get their liuings.</p>
+            <p>And whereas Engliſh Wyer, being made of the tougheſt and beſt Oſmond Iron, (a natiue Commoditie of this Kingdome) is of much better vſe, then that Iron Wyer which commeth from forreigne parts, eſpecially for the making of good Wooll-Cards, without which no good Cloth can be made: And this hath appeared vnto Vs by the Certificates of diuers Clothiers, Card-makers, Card-Wyer-drawers, and the Farmors of Our Cuſtomes, to whom the examination thereof hath been referred.</p>
+            <p>And whereas by the Wyer-drawers of diuers parts of this Our Kingdome, ſundry com<g ref="char:EOLhyphen"/>plaints haue beene made vnto Vs, that by reaſon of the great quantities of forreigne Iron Wyer lately imported into this Our Realme of England, (whereof alſo a great part is falſly and deceitfully made and wrought) Our ſayd poore Subiects who make Iron Wyer cannot be ſet on worke in their Vocations of Wyer-making and Wyer-drawing, nor are able to con<g ref="char:EOLhyphen"/>tinue in the exerciſe of their ſayd Trades, whereby ſo commendable and profitable an Arte is like wholly to be loſt in this our Kingdome, and the makers of Wooll-Cards are much de<g ref="char:EOLhyphen"/>ceiued by that forreigne Wyer; and they who vſe thoſe Cards much more: whereby great pre<g ref="char:EOLhyphen"/>iudice will ariſe to Vs and Our people, and to the whole Trade of Clothing within this Realme, except ſome ſpeedy courſe be taken for redreſſe of ſo great an inconuenience.</p>
+            <p>Wee well weighing the danger and preiudice that may happen to this Our Kingdome, by being ſerued onely from forreigne parts, with a Commoditie of ſo great neceſſity, and conti<g ref="char:EOLhyphen"/>nuall vſe as Wyer is, either in time of warre, when little or none can be imported, or elſe when forreigne parts ſhall finde other Markets or Vents for that Commoditie, or when at their owne pleaſures they may rayſe their priſes vpon Vs, or ſerue Vs, with falſe and vnſeruice<g ref="char:EOLhyphen"/>able
+<pb facs="tcp:150855:2" rendition="simple:additions"/>Wyer, which would tend much to the diſhonour of this Our Nation, and diſaduantage of Vs and Our louing Subiects.</p>
+            <p>And finding that ſundry good Lawes and Statutes haue formerly been made, prohibiting the Importation of forreigne Wool-cards, and of the ſaid forreigne Iron Wyer, and diuers o<g ref="char:EOLhyphen"/>ther Manufactures made of Wyer, for the better cheriſhing &amp; encouraging of ſo profitable and neceſſarie a Manufacture within this Kingdome, but that the execution of thoſe good Lawes hath of late beene much neglected; Wee taking theſe things into Our Princely conſideration, by the aduice of Our Priuy Councell, haue thought fit as well to prohibite the Importation of forreigne Iron Wyer, and Cards made of forreigne Wyer, and of Hookes and Eyes, and o<g ref="char:EOLhyphen"/>ther Manufactures made of Iron Wyer onely, as to prouide that all Cards made within theſe Our Kingdomes and Dominions, be well and ſubſtantially made, without any fraud or deceit: Doe therefore hereby ſtraitly Charge and Command all and ſingular perſon and per<g ref="char:EOLhyphen"/>ſons whatſoeuer, aſwell Our owne naturall borne Subiects, as Denizens and Strangers, that none of them, nor any other perſon or perſons whatſoeuer, doe at any time or times here<g ref="char:EOLhyphen"/>after attempt or preſume to bring, or cauſe to bee brought into theſe Our Realmes of <hi>England</hi> or <hi>Ireland,</hi> or any other Our Dominions, or into any the Ports, Hauens, Creekes or Places of any of them, any forreigne Iron Wyer, or Cards made of forreigne Iron Wyer, or other Ma<g ref="char:EOLhyphen"/>nufactures aforeſaid, in greater or leſſer quantities, made or to be made in any forreigne Part or Place whatſoeuer, or any Wool Cards made within this Kingdome, and which haue once been exported from hence, vpon paine of forfeiture of all and euery quantitie and quantities of the ſaid forreigne Iron Wyer, and Cards made of forreigne Wyer, and of other the Manufac<g ref="char:EOLhyphen"/>tures made onely of Wyer as aforeſaid, ſo brought or cauſed to bee brought in to Our ſaid Realmes and Dominions, contrarie to this Our Royal Commandement.</p>
+            <p>And Our will and pleaſure is, that all ſuch forreigne Iron Wyer, and Cards made of Wyer, and Manufactures of Wyer aforeſaid, which ſhall bee imported contrarie to theſe pre<g ref="char:EOLhyphen"/>ſents, ſhall by ſuch perſon and perſons who ſhall ſeize the ſame be forthwith carried and con<g ref="char:EOLhyphen"/>ueyed into Our Cuſtome-Houſe within Our Port of <hi>London,</hi> and other Cuſtome-houſes of that Port where the ſame ſhall be ſeized, without ſelling, vttering, compounding, or deliuering any part thereof, before the ſame be thither brought and deliuered as aforeſaid, vpon paine of our high Indignation &amp; diſpleaſure, and of ſuch further paines, penalties and puniſhments as by the Lawes &amp; Statutes of this Our Realme, or Our Prerogatiue Royall for the contempt of Our commandement in this behalfe, can or may any way be inflicted vpon them, or any of them ſo offending, contrary to the true intent &amp; meaning of theſe preſents: And to that end and purpoſe, Wee doe hereby require and command all and ſingular the Officers of Our Cu<g ref="char:EOLhyphen"/>ſtomes, or attending the ſame, within all and euery the Ports &amp; Hauens of theſe Our Realmes and Dominions, and the Creekes and Members of the ſame Ports, that they and euery of them doe from and after the date hereof at all times forbeare to take any entry, or entries, or to take or make any compoſition or compoſitions for any Cuſtome, Subſidie, or other Dutie, for, or vpon any forreigne Wyer, or Cards made of forreigne Wyer, or other the Manufactures made onely of Iron Wyer as aforeſaid, brought, or to be brought into theſe Our Realmes or Dominions from any forreigne parts. And alſo that they, and all, and euery other Our Of<g ref="char:EOLhyphen"/>ficers and Miniſters doe ſtay and ſeize the ſame, as forfeited and confiſcated, to the vſe and vſes hereafter ſpecified, vpon paine of forfeiture of their Offices, and of vndergoing Our high in<g ref="char:EOLhyphen"/>dignation and diſpleaſure for their neglect herein, with ſuch further paines and puniſhments as by the Lawes and Statutes of this Our Realme, or by Our Prerogatiue Royall, for the ſame their contempts and defaults, may any way be inflicted vpon them.</p>
+            <pb facs="tcp:150855:3" rendition="simple:additions"/>
+            <p>And whereas an vſe or cuſtome hath lately crept into this Kingdome by ſome ill diſpoſed perſons, more regarding their owne priuate gaine and lucre, then the good of the Common<g ref="char:EOLhyphen"/>wealth, to buy vp old caſt Cards within this Kingdome, and doe ſcowre, tranſlate, and trim vp the ſame, and ſell them againe to vnſkilfull countrey people for new Cards; by meanes whereof the Cloth made of Wool carded with ſuch Cards, is falſified to the great loſſe and hin<g ref="char:EOLhyphen"/>derance of the Clothier, the deceit and preiudice of Our Subiects, who doe buy and weare the ſame, and to the diſcredit of the trade of Clothing, being the chiefeſt and richeſt Commoditie of this Our Kingdome.</p>
+            <p>Theſe are therefore further to require and command, that no perſon or perſons doe at any time or times hereafter attempt or preſume to Buy, Sell, Barter, Vent, or put to Sale with<g ref="char:EOLhyphen"/>in any of Our ſaid Kingdomes, or Dominions, or to export into any forreigne parts any old caſt Wool-Cards whatſoeuer, vpon paine of forfeiture and confiſcation thereof, and ſuch other paynes, penalties and puniſhments, as by the Lawes and Statutes of this Realme, or by Our Prerogatiue Royal can or may be inflicted vpon them. But that the ſame old Caſt Wool-Cards being offered to ſale be ſeized to Our vſe, by any Our Officers or Subiects, and to bee brought into Our Cuſtome-houſes within Our Port of <hi>London,</hi> or other Ports aforeſaid.</p>
+            <p>And to the end Our intention herein may take the better effect; Our will and command is, and We doe hereby declare Our pleaſure to be, that ſuch perſon and perſons as ſhall make ſeizure of any of the ſaid forreigne Iron Wyer, or of any Cards made of forreigne Wyer, or manufactures made of Iron Wyer only, or of any old caſt Wool-Cards, tranſlated or trimmed vp, and put to ſale as aforeſaid, contrarie to Our Royal commandement herein ſignified, ſhall haue and receiue to his or their owne vſe and vſes, one moyetie or halfe part of the ſaid Iron Wyer, or Cards made of forreigne Wyer, or old caſt Wool-Cards, or other manufactures made of Wyer onely as aforeſaid, ſo by him or them ſeized or to be ſeized, as aforeſaid, the other moietie thereof to be reſerued to Our vſe.</p>
+            <p>And for the better execution of this Our preſent will and Commandement, Wee doe ſtraitly charge and command all Iuſtices of Peace, Maiors, Sheriffs, Bailiffs, Conſtables, Headbo<g ref="char:EOLhyphen"/>roughs, Tithingmen, &amp; all other Our Officers, Miniſters, &amp; louing Subiects, to whom it ſhal or may appertaine, that they and euery of them, at all time and times hereafter, &amp; from time to time be aiding and aſſiſting to Our ſayd Cuſtomers, Collectors, Searchers, Waiters, and to all other perſon and perſons imployed for the ſearching in any Ship, Houſe, Ware-houſe or Celler, and for ſeizing, taking, and carrying away of all and euery ſuch Iron Wyer, and Cardes made of forreigne Wyer, and other manufacture made of Wyer imported, or hereafter to bee imported contrary to this Our Royall prohibition and commandement. And if any ſhall offend herein, or bee found remiſſe or negligent in the execution of the premiſſes, and notice thereof be giuen to Our Attourney generall for the time being, that hee doe proceed againſt all and euery perſon and perſons ſo offending, in Our high Court of Starre-chamber, or in any other Our Courts of Iuſtice, or otherwiſe, by ſuch wayes and meanes as are by the Lawes, or Statutes of this Realme prouided againſt ſuch as ſhall offend herein, contrary to the Law, and contrary to Our Royall Commandement.</p>
+            <closer>
+               <dateline>Giuen at Our Court at White-hall, <date>the ſeuenth day of May, in the ſixt yeere of Our Reigne.</date>
+               </dateline> God ſaue the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶ Imprinted at London by ROBERT BARKER, Printer to the Kings moſt Excellent MAIESTIE. M.DC.XXX.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
